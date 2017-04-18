@@ -1,0 +1,22 @@
+{
+	"data":[
+	{
+		"firstName":"alicia",
+		"lastName":"douglas",
+		"age":25,
+		"jobTitle":"Backend developer"
+	},
+	{
+		"firstName":"John",
+		"lastName":"Michael",
+		"age":23,
+		"jobTitle":"UI Designer"
+	},
+	{
+		"firstName":"Mina",
+		"lastName":"schoof",
+		"age":31,
+		"jobTitle":null
+	},
+	]
+}
